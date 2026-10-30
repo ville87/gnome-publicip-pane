@@ -1,0 +1,6 @@
+{
+    "uuid": "public-ip@ifconfig.local",
+    "name": "Public IP Display",
+    "description": "Displays the current public IP address in the GNOME panel",
+    "shell-version": ["50"]
+}
