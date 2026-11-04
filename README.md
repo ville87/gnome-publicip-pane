@@ -29,7 +29,8 @@ nano metadata.json
 nano extension.js
 ```
 5. Insert contents from extension.js file (found in repo)
-6. Enable the extension using:
+6. Log out from the VM and log back in (so that GNOME reloads the extensions)
+7. Enable the extension using:
 ```bash
 gnome-extensions enable public-ip@ifconfig.local
 ```
